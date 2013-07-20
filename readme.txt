@@ -31,7 +31,7 @@ Very easy to install, similar to rest of the plugins.
 == Frequently Asked Questions ==
 
 
-Do you have questions or issues with Follow us on widget? write to me (vijay [at] vijayakumar.org).
+Do you have questions or issues with Simple Scroll To Top? write to me (vijay [at] vijayakumar.org).
 
 
 == Changelog ==
