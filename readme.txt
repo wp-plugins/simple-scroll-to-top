@@ -1,5 +1,5 @@
 === Simple Scroll To Top ===
-Contributors: Vijayakumar S
+Contributors: mrvijayakumar
 Plugin Site: http://vijayakumar.org/
 Tags: Scroll to top, back to top, smooth back to top
 Requires at least: 2.8
